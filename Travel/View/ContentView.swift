@@ -48,6 +48,6 @@ struct CityCell: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView().colorScheme(.dark)
+        ContentView()
     }
 }
